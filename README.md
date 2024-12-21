@@ -7,12 +7,9 @@ My name is Nancy Okeke, a Junior at UCLA majoring in Cognitive Science, minoring
 🎯 Featured Project: Student-College Matching.
 Check out my work on this AI project for Resolvely! My team and I developed a sophisticated AI model that assesses a high school student’s preferred list of colleges based on their interests, preferences, and high school progress.
 
-Tools: Python, scikit-learn, SQL
-What We Did: Preprocessed and vectorized text data using spaCy, then built an SVM classifier to predict sentiment (positive, negative, or neutral).
-Results: Achieved 85% accuracy, outperforming the baseline by 20%, and provided insights that helped guide data-driven improvements in customer service.
-👀 Curious? See the full project hereLinks to an external site.. 
 
 What We Did: Cleaned and merged various CSV datasets regarding various institutions, scholarships, college graduation rates, etc, employing one-hot encoding preprocessing and machine learning techniques such as K-Means Algorithm and Hyperparameter Tuning to predict student matching accuracy.
 Results: Predicted earnings after college with high accuracy (R² = 0.88). The model is effective at predicting earning outcomes, which can inform students about the financial benefits of attending different institutions.
+
 👀 Curious? See the full project here: [https://github.com/Resolvely/Main]
 
